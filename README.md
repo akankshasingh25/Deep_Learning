@@ -1,2 +1,3 @@
-# Deep_Learning
-Coursework for Deep Learning@IISERB-Summer'22
+# DSE316: Deep Learning (Summer Semester-2022)
+## Course Instructor: Vinod Kurmi
+Coursework: Assignment
